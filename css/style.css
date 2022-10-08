@@ -19,6 +19,7 @@ html{
     align-items: center;
     position: sticky;
     top: 0px;
+    z-index: 2;
 }
 
 #navbar::before{
@@ -106,7 +107,7 @@ html{
     content: " ";
     position: absolute;
     background-color: rgb(163, 161, 161);
-    height: 625px;
+    height: 600px;
     width: 100%;
     z-index: -1;
     opacity: 0.4;
@@ -170,7 +171,7 @@ html{
 /* Contact Section  */
 #contact{
     position: relative;
-    z-index: -2;
+    /* z-index: -2; */
 }
 
 #contact::before{

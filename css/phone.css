@@ -26,7 +26,7 @@
 
 /* Service section */
 #services-container::before{
-    height: 1429px;
+    height: 1570px;
 }
 #services{
     flex-direction: column;
