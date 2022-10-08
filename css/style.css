@@ -171,7 +171,6 @@ html{
 /* Contact Section  */
 #contact{
     position: relative;
-    /* z-index: -2; */
 }
 
 #contact::before{
