@@ -204,6 +204,18 @@ html{
     font-size: 1.3rem;
     font-family: 'Open Sans', sans-serif;
 }
+#contact-box button
+{
+    width:30%;
+    height:30px;
+    border:4px;
+    background-color:darkblue;
+    color: white;
+    border-radius:3px;
+    font-weight: bold;
+    font-size:20px;
+    margin-left: 200px;
+}
 footer{
     background: black;
     color: white;
