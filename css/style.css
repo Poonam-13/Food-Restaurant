@@ -242,3 +242,26 @@ footer{
 .center{
     text-align: center;
 }
+form 
+{
+    text-align: center;
+}
+#login form
+{
+    width:500px;
+    height:500px;
+    border:2px;
+    border-radius:25px;
+    background-color:floralwhite;
+    margin-left:500px;
+    font-size:24px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+form input[type="submit"],input[type="reset"]
+{
+    border-radius:15px;
+    width:100px;
+    height:30px;
+    font-size:large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
