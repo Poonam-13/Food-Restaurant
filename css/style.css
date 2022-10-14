@@ -99,7 +99,7 @@ html{
 #home p{
     color: white;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 150%;
 } 
 
 /* Services Section  */
@@ -185,7 +185,7 @@ html{
 #contact-box{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: centre;
     padding-bottom: 34px;
 }
 #contact-box input,
@@ -214,7 +214,7 @@ html{
     border-radius:3px;
     font-weight: bold;
     font-size:20px;
-    margin-left: 200px;
+    margin-left: 30px;
 }
 footer{
     background: black;
